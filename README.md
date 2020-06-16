@@ -1,4 +1,4 @@
-### HTTP Server + Load Balancer
+## HTTP Server + Load Balancer
 
 These two projects are meant to be run in conjunction. For more info on how to run each component, refer to each directory's README
 
