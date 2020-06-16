@@ -1,4 +1,4 @@
-##Assignment 3: loadbalancer
+## Assignment 3: loadbalancer
 
 ##### Goal:
 To create a load balancer that will distribute connections over a set of servers such as the one that implemented in the previous assignment, while ignoring non-responding servers. 
