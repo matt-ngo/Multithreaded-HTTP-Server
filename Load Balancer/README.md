@@ -3,7 +3,7 @@
 ##### Goal:
 To create a load balancer that will distribute connections over a set of servers such as the one that implemented in the previous assignment, while ignoring non-responding servers. 
 
-It will use the health check implemented in that assignment to keep track of the performance of these servers and decide which one will receive the incomingconnection.
+It will use the health check implemented in that assignment to keep track of the performance of these servers and decide which one will receive the incoming connection.
 
 ##### Usage: 
 _Parameters_:  
